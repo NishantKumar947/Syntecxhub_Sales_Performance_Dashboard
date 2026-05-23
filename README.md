@@ -62,3 +62,7 @@ Run the cleaning script to view the data transformation process:
 Bash
 python notebooks/data_cleaning.py
 Open the .twbx file inside the dashboard/ folder using Tableau to explore the interactive visualizations.
+
+```markdown
+## 📊 Final Dashboard Preview
+![Dashboard Screenshot](dashboard/Dashboard.png)
